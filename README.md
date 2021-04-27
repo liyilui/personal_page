@@ -24,7 +24,7 @@ contact: liyilui@gmail.com
 
 ## Selected Publications and Patents
 - Yilei Li et al., Improving Efficiency in Neural Network Accelerator using Operands Hamming Distance Optimization, Neurips 2019 EMC2 Workshop
-- Li Du, Yuan Du, Yilei Li et al., A Reconfigurable Streaming Deep Convolutional Neural Network Accelerator for Internet of Things, IEEE Transactions on Circuits and Systems I: Regular Papers, 2018
+- Li Du, Yuan Du, Yilei Li et al., A Reconfigurable Streaming Deep Convolutional Neural Network Accelerator for Internet of Things, IEEE Transactions on Circuits and Systems I: Regular Papers, 2018. (Winner of IEEE Darlington Best Paper Award 2021)
 - Yilei Li et al., A novel fully synthesizable all-digital RF transmitter for IoT applications, IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems, 2018
 - Convolution operation device and convolution operation method, US20180137414A1
 - Convolution operation device and method, US10169295B2
